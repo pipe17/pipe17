@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying on **PEDAGOGICAL AND TECHNOLOGICAL UNIVERSITY OF COLOMBIA**
 
-- 🌱I have knowledge in **Java, Spring boot,Oracle DB, MySQL, HTML and CSS**
+- 🌱I have knowledge in **Java, Golang, Spring Boot, C#, .NET, React, Bootstrap, Agile methodologies, MySQL, Oracle DB, PostgreSQL, MongoDB, CI/CD with Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Development, Deployment, Monitoring, Reliability, Scalability, Efficient resource utilization.**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Boot, C#, .NET, PostgreSQL, CI/CD with Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Deployment and Monitoring**
 
 - 📫 How to reach me **andresfelipe.amezquita01@gmail.com**
 
