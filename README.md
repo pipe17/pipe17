@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andres Amezquita</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h1 align="center">Hi, I'm Andres Amezquita</h1>
+<h3 align="center">DevOps Engineer from Colombia</h3>
 
 - Computer systems engineer from Universidad Pedagogica y Tecnologica de Colombia
 
