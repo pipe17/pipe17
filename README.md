@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andres Amezquita</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently studying on **PEDAGOGICAL AND TECHNOLOGICAL UNIVERSITY OF COLOMBIA**
+- Computer systems engineer from Universidad Pedagogica y Tecnologica de Colombia
 
-- 🌱I have knowledge in **Java, Golang, Spring Boot, C#, .NET, React, Bootstrap, Agile methodologies, MySQL, Oracle DB, PostgreSQL, MongoDB, CI/CD with Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Development, Deployment, Monitoring, Reliability, Scalability, Efficient resource utilization.**
+- I have knowledge in **Java, Spring Boot, C#,.NET, Agile methodologies, MySQL, Oracle DB, PostgreSQL, MongoDB, CI/CD, Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Development, Deployment, Monitoring, Reliability, Scalability, Efficient resource utilization.**
 
-- 💬 Ask me about **Java, Spring Boot, C#, .NET, PostgreSQL, CI/CD with Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Deployment and Monitoring**
+- Ask me about **Java, Spring Boot, C#, .NET, PostgreSQL, CI/CD with Jenkins, Infrastructure management with Terraform, Docker, Linux, AWS (ECS), Grafana, Prometheus, Deployment and Monitoring**
 
 - 📫 How to reach me **andresfelipe.amezquita01@gmail.com**
 
